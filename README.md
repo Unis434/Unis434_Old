@@ -2,7 +2,7 @@
 
 ![banner](https://user-images.githubusercontent.com/79544610/156051688-478d9c49-3c1e-480d-8047-b9f633713d16.jpg)
 
-[![bg][banner]][website]
+
     
 ## Reach Me
 
