@@ -57,4 +57,4 @@
 <a href="mailto:unisk434@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-unisk434@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [Unis434](https://github.com/Unis434)
+
