@@ -6,7 +6,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software/website solutions.
 - 🎓 &nbsp; Studied Applied Accounting from Institute of Public Administration & Management (IPAM).
 - 💼 &nbsp; Working as a Business Performance Analyst at FBNBank Sierra Leone.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and website development & design.
+- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Website Development & Design.
 - ✍️ &nbsp; Pursuing Graphic Design and Software Installation as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -41,7 +41,7 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/UNIS434">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UNIS434&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UNIS434&theme=buefy&layout=compact" />
 </a>
