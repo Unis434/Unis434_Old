@@ -42,8 +42,8 @@
 <br/>
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UNIS434&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UNIS434&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -51,10 +51,10 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://unis434.github.io/Personal_Resume/index/html/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/unis_k/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:unisk434@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://unis434.github.io/Personal_Resume/index/html/"><img alt="Website" src="https://img.shields.io/badge/Website-Personal_Resume-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Unisa%20Kamara-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/unis_k/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Unis_k-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:unisk434@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-unisk434@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [Unis434](https://github.com/Unis434)
